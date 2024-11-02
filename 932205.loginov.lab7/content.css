@@ -1,0 +1,15 @@
+.square{
+	background-color:rgba(255,0,0,0.85);
+	position:absolute;
+	border:black solid 1px;
+}
+.triangle{
+	width: 0px;
+	height: 0px;
+	position:absolute;
+}
+.circle{
+	background-color:rgba(0,100,0,0.85);	
+	border:black solid 1px;
+	position:absolute;
+}
